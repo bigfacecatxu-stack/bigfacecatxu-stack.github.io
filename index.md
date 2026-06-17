@@ -10,7 +10,7 @@ title:
 
 
 ## 相声本子
-- [《买卖论》全](./Hust-yjy.md)   — 待超进化修改
+- [《买卖论》全](./yjy-toilet.md)   — 待超进化修改
 - [《小兵张嘎》正活](./wochovy.md) 
 - [《树没叶之北美探宝》正活](./Trump-and-Biden-secret-story.md) 
 - [《星座漫谈》底](./MBTI.md)  — 原创者:陈雨果，李隆德
