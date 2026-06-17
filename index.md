@@ -3,20 +3,20 @@ layout: home
 title: ""
 ---
 
-<div style="display: flex; justify-content: space-between; align-items: center; width: 100%; margin-bottom: 20px;">
-    <span style="font-size: 28px; font-weight: bold;">相声本子和灵感</span>
-    <span style="font-size: 16px; color: #555;">明春相声社 张炎 徐智健</span>
-</div>
-
 ## 相声本子
-- [《买卖论》全](./benzi/yjy-toilet.md)   — 待修改
-- [《小兵张嘎》正活](./benzi/wochovy.md) 
-- [《树没叶之北美探宝》正活](./benzi/Trump-and-Biden-secret-story.md) 
-- [《星座漫谈》底](./benzi/MBTI.md)  — 原创者:陈雨果，李隆德
-- [《解放战争中的那一幕》](./benzi/KMT.md)  — 没整理完
-- [《黄半仙》全本](./benzi/huangbanxian.md)
+- [《买卖论》全](./benzi/yjy-toilet.md) - 待修改
+- [《小兵张嘎》正话](./benzi/wchovky.md)
+- [《树洞之北美探宝》正话](./benzi/Trump-and-Biden-secret-story.md)
+- [《星座漫谈》底](./benzi/MBTI.md) - 原创者:陈雨果, 李隆德
+- [《解放战争中的那一幕》](./benzi/KMT.md) - 没整理完
+- [《黄牛仙》全本](./benzi/huangbanxian.md)
 
 ## 灵感随记
-- [《四大名著》灵感随记](./inspiration/sidamingzhu.md) 
-- [《对春联》残](./inspiration/duichunlian.md) 
-- [《操作系统是捧哏的女朋友》](./inspiration/girlfriendOS.md)
+- [《四大名著》灵感随记](./inspiration/sidamingzhu.md)
+- [《对春联》残](./inspiration/duichunlian.md)
+- [《操作系统是捧哦的女朋友》](./inspiration/girlfriendOS.md)
+
+<!-- 新加的右下角 -->
+<div style="text-align: right; margin-top: 40px; font-size: 18px; color: #333;">
+  明春相声社 张炎 徐智健
+</div>
